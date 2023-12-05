@@ -37,6 +37,7 @@
 
 body {
   background: var(--bg-gradient);
+  height: 100vh;
 }
 
 body * {
